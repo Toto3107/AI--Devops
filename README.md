@@ -34,5 +34,5 @@ It is designed to provide hands-on experience in **MLOps and DevOps workflows**,
 ```bash
 git clone https://github.com/Toto3107/sentiment-bento.git
 cd sentiment-bento
-# AI--Devops
+
 Deployable Hugging Face Sentiment Analysis API using BentoML, Docker, Kubernetes, and Terraform for DevOps practice.
